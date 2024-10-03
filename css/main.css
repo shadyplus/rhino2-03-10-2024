@@ -635,7 +635,7 @@ li {
   outline: none;
   border: none;
   margin: 0 auto;
-  background: url(../img/send-but.png) 0 0 no-repeat;
+  background: url(../send-but.png) 0 0 no-repeat;
 }
 
 .send-button:hover {
